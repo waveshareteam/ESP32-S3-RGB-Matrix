@@ -1,0 +1,19 @@
+idf_component_register(
+    SRCS
+        "extra_bsp.c"
+    INCLUDE_DIRS
+        "."
+    REQUIRES
+        driver
+        waveshare__pcf85063a
+    PRIV_REQUIRES
+        esp32_s3_matrix
+        waveshare__qmi8658
+        esp_wifi
+        esp_netif
+        esp_event
+        nvs_flash
+        esp_driver_i2c
+        freertos
+        esp_timer
+)

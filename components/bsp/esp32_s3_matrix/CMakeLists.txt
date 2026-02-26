@@ -1,0 +1,18 @@
+idf_component_register(
+    SRCS
+        "esp32_s3_matrix.c"
+        "hub75_bridge.cpp"
+    INCLUDE_DIRS
+        "include"
+    PRIV_INCLUDE_DIRS
+        "priv_include"
+    REQUIRES
+        lvgl__lvgl
+        esphome__esp-hub75
+        esp_codec_dev
+        esp_driver_i2c
+        fatfs
+        spiffs
+        sdmmc
+        driver
+)

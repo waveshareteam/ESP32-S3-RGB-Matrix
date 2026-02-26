@@ -1,0 +1,9 @@
+dependencies:
+  idf: '>=5.3.2'
+description: QMI8658 sensor, adapted by the Waveshare team
+repository: git://github.com/waveshareteam/Waveshare-ESP32-components.git
+repository_info:
+  commit_sha: 07b4d537ddfb4b273a645f86d761c5bff5fbdf33
+  path: sensor/qmi8658
+url: https://github.com/waveshareteam/Waveshare-ESP32-components/tree/master/sensor/qmi8658
+version: 1.0.1

@@ -1,0 +1,9 @@
+dependencies:
+  idf: '>=5.3.2'
+description: PCF85063A, adapted by the Waveshare team
+repository: git://github.com/waveshareteam/Waveshare-ESP32-components.git
+repository_info:
+  commit_sha: 02e6f1504ae6f5e16528a5e20c39ff24990c03bb
+  path: sensor/pcf85063a
+url: https://github.com/waveshareteam/Waveshare-ESP32-components/tree/master/sensor/pcf85063a
+version: 1.0.1

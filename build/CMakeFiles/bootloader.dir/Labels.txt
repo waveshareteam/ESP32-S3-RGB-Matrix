@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/CMakeFiles/bootloader
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/CMakeFiles/bootloader.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/CMakeFiles/bootloader-complete.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/waveshare_project_release/ESP32-project/ESP32-S3-RGB-Matrix/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
