@@ -1,0 +1,21 @@
+# ESP-IDF
+build/
+sdkconfig.old
+sdkconfig.defaults
+managed_components/
+dependencies.lock
+
+# Editor-specific
+.cache/
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific
+*.bin
+*.elf
+*.map
+*.idx
