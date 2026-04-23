@@ -7,6 +7,8 @@ ESP32-S3-RGB-Matrix 是一款面向 HUB75 接口 RGB 点阵屏的高性能显示
 - `https://www.waveshare.net/shop/ESP32-S3-RGB-Matrix.htm` 
 - `https://docs.waveshare.net/ESP32-S3-RGB-Matrix/` 
 
+![Product Image](./assets/Product-1.webp)
+
 --- 
 
 ## 🔧 配置 
