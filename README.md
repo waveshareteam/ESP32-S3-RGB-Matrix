@@ -1,6 +1,6 @@
 # Waveshare ESP32-S3-RGB-Matrix Project Examples
 
-[中文](README_zh.md)
+[中文](README_ZH.md)
 
 ESP32-S3-RGB-Matrix is a high‑performance LED matrix driver board designed for HUB75 RGB panels. It is built around the ESP32-S3-N32R16 MCU with large Flash/PSRAM, and integrates rich peripherals including RTC, IMU, Micro SD card slot, low‑power audio codec, and dual microphones. It can simultaneously cover colorful graphics display, voice interaction, and IoT application scenarios.
 
