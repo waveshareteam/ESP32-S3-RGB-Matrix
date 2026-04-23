@@ -1,6 +1,0 @@
-
-menu "ESP32-S3-Matrix BSP"
-
-    comment "GPIO constants are fixed in BSP (no Kconfig)"
-
-endmenu
