@@ -7,6 +7,7 @@ ESP32-S3-RGB-Matrix is a high‑performance LED matrix driver board designed for
 - https://www.waveshare.net/shop/ESP32-S3-RGB-Matrix.htm
 - https://docs.waveshare.net/ESP32-S3-RGB-Matrix/
 
+![Product Image](./assets/Product-1.webp)
 ---
 
 ## 🔧 Setup
