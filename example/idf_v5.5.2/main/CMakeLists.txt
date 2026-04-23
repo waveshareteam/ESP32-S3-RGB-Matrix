@@ -1,0 +1,29 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "examples/01_Matrix_RGBW/matrix_rgbw.c"
+        "examples/02_Matrix_Font_5x7/matrix_font_5x7.c"
+        "examples/03_Matrix_QMI/matrix_qmi.c"
+        "examples/04_Matrix_RTC/matrix_rtc.c"
+        "examples/05_Matrix_SDCard/matrix_sdcard.c"
+        "examples/06_Matrix_SHTC3/matrix_shtc3.c"
+        "examples/07_Matrix_WiFi/matrix_wifi.c"
+        "examples/08_Matrix_Audio/matrix_audio.c"
+
+    INCLUDE_DIRS
+        "."
+        "examples"
+        "examples/01_Matrix_RGBW"
+        "examples/02_Matrix_Font_5x7"
+        "examples/03_Matrix_QMI"
+        "examples/04_Matrix_RTC"
+        "examples/05_Matrix_SDCard"
+        "examples/06_Matrix_SHTC3"
+        "examples/07_Matrix_WiFi"
+        "examples/08_Matrix_Audio"
+    REQUIRES
+        esp32_s3_matrix
+        Middleware
+        button
+        font
+)

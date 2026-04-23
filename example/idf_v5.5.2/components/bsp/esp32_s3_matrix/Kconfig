@@ -1,0 +1,9 @@
+menu "ESP32-S3 Matrix BSP"
+
+    config BSP_ERROR_CHECK
+        bool "Enable BSP error-check macro abort"
+        default y
+        help
+            When enabled, bsp_err_check() aborts on non-OK return values.
+            Disable only if you want to handle all errors manually.
+endmenu

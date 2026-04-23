@@ -1,0 +1,25 @@
+idf_component_register(
+    SRCS
+        "SD/middle_sdcard.c"
+        "WiFi/middle_wifi.c"
+        "Sensor/middle_sensor.c"
+        "Audio/middle_audio.c"
+        "RTC/middle_rtc.c"
+        "UI/common_ui.c"
+    INCLUDE_DIRS
+        "SD"
+        "WiFi"
+        "Sensor"
+        "Audio"
+        "RTC"
+        "UI"
+    REQUIRES
+        esp32_s3_matrix
+        esp_jpeg
+        waveshare__qmi8658
+        waveshare__pcf85063a
+        pedrominatel__shtc3
+        driver
+        freertos
+        esp_timer
+)

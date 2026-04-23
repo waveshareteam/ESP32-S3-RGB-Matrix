@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ESP-IDF
 build/
 sdkconfig.old
@@ -20,17 +19,3 @@ Thumbs.db
 *.elf
 *.map
 *.idx
-=======
-# Environmental Variables
-.env
-
-# VS Code
-.vscode/
-
-# ESP-IDF
-build/
-sdkconfig
-sdkconfig.old
-managed_components/
-dependencies.lock
->>>>>>> 872779c (init project)
